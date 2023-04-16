@@ -42,4 +42,4 @@ def read_tps_file(filename):
     return df
 
 if __name__ == '__main__':
-    read_tps_file(filename = '../PurchaseOrders.tps')
+    read_tps_file(filename = '../PurchaseOrders.tps')    
